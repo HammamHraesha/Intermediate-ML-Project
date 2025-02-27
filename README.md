@@ -1,4 +1,4 @@
-# Intermediate-ML-Project
+# Peking University/Baidu - Autonomous Driving Kaggle Competition Solution
 This repository contains the code for the final project of the Intermediate Machine Learning Course from Opencampus
 
 The final project is based on the "Peking University/Baidu - Autonomous Driving" Kaggle competition linked here: https://www.kaggle.com/competitions/pku-autonomous-driving/overview
