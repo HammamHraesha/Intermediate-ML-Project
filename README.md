@@ -18,4 +18,4 @@ Final Code link: https://github.com/HammamHraesha/Peking-University-Baidu-Autono
 2. https://arxiv.org/abs/1904.07850
 
 ## Cover Image
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](cover-image.png)
