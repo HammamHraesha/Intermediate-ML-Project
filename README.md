@@ -7,4 +7,4 @@ Github repository link: https://github.com/HammamHraesha/Peking-University-Baidu
 
 Final Presentation link: https://github.com/HammamHraesha/Peking-University-Baidu-Autonomous-Driving-Kaggle-Competition/blob/main/Final_Presentation.odp
 
-My Code link: https://github.com/HammamHraesha/Peking-University-Baidu-Autonomous-Driving-Kaggle-Competition/blob/main/final_project.ipynb
+Final Code link: https://github.com/HammamHraesha/Peking-University-Baidu-Autonomous-Driving-Kaggle-Competition/blob/main/final_project.ipynb
